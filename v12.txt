@@ -1,0 +1,2 @@
+vless://40768c16-0110-4fbc-e12f-b51e61ffb1d2@tghi.ddns.net:8443?encryption=none&security=tls&sni=wl.setam.fun&alpn=http%2F1.1&type=ws&host=wl.setam.fun&path=%2F#wl%20vless%20ws%20mci%20%F0%9F%87%A9%F0%9F%87%AA
+vless://40768c16-0110-4fbc-e12f-b51e61ffb1d2@iiir.ddns.net:8443?encryption=none&security=tls&sni=wl.setam.fun&alpn=http%2F1.1&type=ws&host=wl.setam.fun&path=%2F#wl%20vless%20mci%20irancell%20%F0%9F%87%A9%F0%9F%87%AA
