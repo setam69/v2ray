@@ -1,0 +1,2 @@
+vless://8c0c82cd-e871-48b5-f02e-6dd439b68699@iiir.ddns.net:8443?encryption=none&security=tls&sni=wl.setam.fun&alpn=http%2F1.1&type=ws&host=wl.setam.fun&path=%2F#wl%20vless%20ws%20irancell%20%F0%9F%87%A9%F0%9F%87%AA
+vless://8c0c82cd-e871-48b5-f02e-6dd439b68699@xyzbbr.ddns.net:8443?encryption=none&security=tls&sni=wl.setam.fun&alpn=http%2F1.1&type=ws&host=wl.setam.fun&path=%2F#wl%20vless%20ws%20mci%20%F0%9F%87%A9%F0%9F%87%AA

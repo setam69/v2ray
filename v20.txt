@@ -1,0 +1,2 @@
+vless://fc025b77-39aa-43c8-90ba-f4ec8d2e69d0@iiir.ddns.net:8443?encryption=none&security=tls&sni=wl.setam.fun&alpn=http%2F1.1&type=ws&host=wl.setam.fun&path=%2F#wl%20vless%20ws%20irancell%20%F0%9F%87%A9%F0%9F%87%AA
+vless://fc025b77-39aa-43c8-90ba-f4ec8d2e69d0@xyzbbr.ddns.net:8443?encryption=none&security=tls&sni=wl.setam.fun&alpn=http%2F1.1&type=ws&host=wl.setam.fun&path=%2F#wl%20vless%20ws%20mci%20%F0%9F%87%A9%F0%9F%87%AA
