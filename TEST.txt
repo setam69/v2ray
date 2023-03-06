@@ -1,0 +1,2 @@
+vless://d2ec06ea-b4ae-4c0c-9c88-a8acd912b6f7@iiir.ddns.net:2096?encryption=none&security=tls&sni=bga.setam.fun&type=ws&host=bga.setam.fun&path=%2F#vless%20gate
+vless://d2ec06ea-b4ae-4c0c-9c88-a8acd912b6f7@xyzbbr.ddns.net:2096?encryption=none&security=tls&sni=bga.setam.fun&type=ws&host=bga.setam.fun&path=%2F#vless%20gate
