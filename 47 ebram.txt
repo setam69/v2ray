@@ -1,0 +1,4 @@
+vless://a12c3683-d68f-4570-8a25-00974f02020d@iiir.ddns.net:8443?encryption=none&security=tls&sni=wl.setam.fun&alpn=http%2F1.1&type=ws&host=wl.setam.fun&path=%2F#wl%20vless%20wifi%20irancell%20%F0%9F%87%A9%F0%9F%87%AA
+vless://a12c3683-d68f-4570-8a25-00974f02020d@xyzbbr.ddns.net:8443?encryption=none&security=tls&sni=wl.setam.fun&alpn=http%2F1.1&type=ws&host=wl.setam.fun&path=%2F#wl%20vless%20ws%20mci%20%F0%9F%87%A9%F0%9F%87%AA
+vless://a12c3683-d68f-4570-8a25-00974f02020d@tghi.ddns.net:8443?encryption=none&security=tls&sni=wl.setam.fun&alpn=http%2F1.1&type=ws&host=wl.setam.fun&path=%2F#wl%20vless%20ws%20mci1%20%F0%9F%87%A9%F0%9F%87%AA
+vless://a12c3683-d68f-4570-8a25-00974f02020d@gtroyt.ddns.net:8443?encryption=none&security=tls&sni=wl.setam.fun&alpn=http%2F1.1&type=ws&host=wl.setam.fun&path=%2F#wl%20vless%20wifi%20irancell1%20%F0%9F%87%A9%F0%9F%87%AA
