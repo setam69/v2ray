@@ -1,0 +1,4 @@
+vless://a04c866a-dfd3-4d02-96ab-2911b11e8cec@iiir.ddns.net:8443?encryption=none&security=tls&sni=wl.setam.fun&alpn=http%2F1.1&type=ws&host=wl.setam.fun&path=%2F#wl%20vless%20wifi%20irancell%20%F0%9F%87%A9%F0%9F%87%AA
+vless://a04c866a-dfd3-4d02-96ab-2911b11e8cec@xyzbbr.ddns.net:8443?encryption=none&security=tls&sni=wl.setam.fun&alpn=http%2F1.1&type=ws&host=wl.setam.fun&path=%2F#wl%20vless%20ws%20mci%20%F0%9F%87%A9%F0%9F%87%AA
+vless://a04c866a-dfd3-4d02-96ab-2911b11e8cec@tghi.ddns.net:8443?encryption=none&security=tls&sni=wl.setam.fun&alpn=http%2F1.1&type=ws&host=wl.setam.fun&path=%2F#wl%20vless%20ws%20mci1%20%F0%9F%87%A9%F0%9F%87%AA
+vless://a04c866a-dfd3-4d02-96ab-2911b11e8cec@e.emails.huffpost.com:8443?encryption=none&security=tls&sni=wl.setam.fun&alpn=http%2F1.1&type=ws&host=wl.setam.fun&path=%2F#wl%20vless%20wifi%20irancell1%20%F0%9F%87%A9%F0%9F%87%AA
